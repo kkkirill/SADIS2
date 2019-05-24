@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>783</width>
-    <height>574</height>
+    <width>720</width>
+    <height>533</height>
    </rect>
   </property>
   <property name="font">
@@ -169,7 +169,7 @@
                        </property>
                        <property name="minimumSize">
                         <size>
-                         <width>45</width>
+                         <width>55</width>
                          <height>35</height>
                         </size>
                        </property>
@@ -239,7 +239,7 @@
                        </property>
                        <property name="minimumSize">
                         <size>
-                         <width>45</width>
+                         <width>55</width>
                          <height>35</height>
                         </size>
                        </property>
@@ -276,7 +276,7 @@
                        </property>
                        <property name="minimumSize">
                         <size>
-                         <width>45</width>
+                         <width>55</width>
                          <height>35</height>
                         </size>
                        </property>
@@ -313,7 +313,7 @@
                        </property>
                        <property name="minimumSize">
                         <size>
-                         <width>45</width>
+                         <width>55</width>
                          <height>35</height>
                         </size>
                        </property>
@@ -350,7 +350,7 @@
                        </property>
                        <property name="minimumSize">
                         <size>
-                         <width>45</width>
+                         <width>55</width>
                          <height>35</height>
                         </size>
                        </property>
@@ -387,7 +387,7 @@
                        </property>
                        <property name="minimumSize">
                         <size>
-                         <width>45</width>
+                         <width>55</width>
                          <height>35</height>
                         </size>
                        </property>
@@ -579,7 +579,7 @@
                    <item row="1" column="4">
                     <layout class="QHBoxLayout" name="horizontalLayout_11">
                      <item>
-                      <widget class="QLineEdit" name="lineEdit2">
+                      <widget class="QLineEdit" name="lineEdit1">
                        <property name="sizePolicy">
                         <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
                          <horstretch>0</horstretch>
@@ -613,7 +613,7 @@
                    <item row="2" column="4">
                     <layout class="QHBoxLayout" name="horizontalLayout_9">
                      <item>
-                      <widget class="QLineEdit" name="lineEdit1">
+                      <widget class="QLineEdit" name="lineEdit2">
                        <property name="sizePolicy">
                         <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
                          <horstretch>0</horstretch>
